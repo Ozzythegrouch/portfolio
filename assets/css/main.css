@@ -1770,3 +1770,15 @@ input, select, textarea {
 	display:flex;
 	flex-direction: column;
 }
+
+.tbcTitle{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+}
+
+.tbcLogo{
+	width: 150px;
+	height: 150px;
+}
