@@ -1673,3 +1673,100 @@ input, select, textarea {
 .imageN{
 	padding: 5px;
 }
+
+.skill{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.skillContainer{
+	display: flex;
+	flex-direction: row;
+	padding:10px;
+}
+
+
+.skillContainerHTML{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	margin:15px;
+}
+.skillContainerCSS{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	margin:15px;
+}
+.skillContainerJavaScript{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	margin:15px;
+}
+.skillContainerNodeJs{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	margin:15px;
+}
+.skillContainerReact{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	margin:15px;
+}
+.skillContainerPostgreSQL{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	margin:15px;
+	
+}
+.skillContainerBootstrap{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	margin:15px;
+}
+.skillContainerRedux{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	margin:15px;
+}
+.skillContainerNPM{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	margin:15px;
+}
+
+.nourritureLogo{
+	width: 150px;
+	height: 150px;
+}
+
+.nourritureTitle{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+}
+
+.nourritureLinks{
+	display:flex;
+	flex-direction: column;
+}
